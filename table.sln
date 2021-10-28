@@ -29,3 +29,19 @@ Global
 		SolutionGuid = {39CE79CD-BDF3-4FFA-8F13-9F9BAA08C7FD}
 	EndGlobalSection
 EndGlobal
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+
+    cout << "Enter a positive integer: ";
+    cin >> n;
+
+    for (int i = 1; i <= 10; ++i) {
+        cout << n << " * " << i << " = " << n * i << endl;
+    }
+    
+    return 0;
+}
