@@ -13,3 +13,5 @@ Enter the range (positive integer): 8
 12 * 6 = 72 
 12 * 7 = 84 
 12 * 8 = 96 
+12 * 9 = 108
+12 * 10 = 120 
